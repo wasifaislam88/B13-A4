@@ -32,7 +32,7 @@ Event bubbling means when an event fires on an element, it automatically propaga
 
 ### 4. What is Event Delegation in JavaScript? Why is it useful?
 
-Answer
+Answer:
 <br>
 Event delegation is attaching a single listener on a parent instead of many on each child, using event.target to identify the clicked child. It saves memory and works for dynamically added elements.
 
