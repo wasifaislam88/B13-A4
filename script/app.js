@@ -42,7 +42,7 @@ function renderJobs() {
 
   filtered.forEach(job => {
     const card = document.createElement("div");
-    card.className = "bg-white p-6 rounded-2xl shadow border";
+    card.className = "bg-white p-5 rounded-2xl shadow border";
     card.innerHTML = `
       <div class="flex justify-between items-start">
         <h3 class="text-xl font-bold">${job.companyName}</h3>
