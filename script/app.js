@@ -8,17 +8,17 @@ let jobs = [
     type: "Full-time",
     applied: "Pending",
     description: "Lorem ipsum dolor sit amet",
-    salary: "৳50,000"
+    salary: "$130,000 - $175,000"
   },
   {
     id: 2,
     companyName: "XYZ Ltd",
     position: "Backend Developer",
-    location: "Chittagong",
+    location: "Dhaka",
     type: "Part-time",
     applied: "Pending",
     description: "Consectetur adipiscing elit",
-    salary: "৳40,000"
+    salary: "$110,000 - $135,000
   }
 ];
 
