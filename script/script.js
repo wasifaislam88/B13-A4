@@ -57,7 +57,7 @@ const jobs = [
    type:"Full-time",
    salary:"$130,000 - $170,00",
    applied:"Not Applied",
-   description:"Build enterprise applications with JavaScript and modern frameworks. We offer competitive compensation, health insurance, and professional development opportunities.",
+   description:"Build enterprise applications with JavaScript and modern frameworks. We offer competitive compensation and professional development opportunities.",
    status:"All"},
 
   {id:7,
